@@ -1263,7 +1263,7 @@ button:hover, a:hover {
 }
 
 .container_projects:hover .overlay_projects{
-  opacity: 1;
+  opacity: 0.5;
   cursor: pointer;
 }
 .proj_cont:hover .overlay_projects{
