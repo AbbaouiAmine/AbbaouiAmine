@@ -1467,3 +1467,16 @@ color: #fff;
     width: 100%;
   }
 }
+@font-face { 
+  font-family: 'Marquette';
+  src: url('css/fonts/Marquette.otf') format('otf');
+  }
+.signature{
+  font-family: Marquette;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 110px !important;
+  line-height: 171px;
+  text-transform: capitalize;
+  color: #f2ba14 !important;
+}
