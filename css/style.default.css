@@ -104,6 +104,7 @@ INTRO
 @media (min-width: 1200px) {
   .intro h1 {
     font-size: 116px;
+    line-height: 170px;
   }
   .intro p {
     font-size: 18px;
@@ -1475,7 +1476,6 @@ color: #fff;
   font-family: Marquette;
   font-weight: normal;
   font-style: normal;
-  line-height: 171px;
   text-transform: capitalize;
   color: #f2ba14 !important;
 }
