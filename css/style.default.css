@@ -1471,12 +1471,12 @@ color: #fff;
 @font-face { 
   font-family: 'Marquette';
   src: url('css/fonts/Marquette.otf') format('otf');
-  src: url('css/fonts/Marquette.eot'); /* IE9 Compat Modes */
+  /*src: url('css/fonts/Marquette.eot'); /* IE9 Compat Modes */
   src: url('css/fonts/Marquette.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('css/fonts/Marquette.woff2') format('woff2'), /* Super Modern Browsers */
        url('css/fonts/Marquette.woff') format('woff'), /* Pretty Modern Browsers */
        url('css/fonts/Marquette.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('css/fonts/Marquette.svg#svgFontName') format('svg'); /* Legacy iOS */
+       url('css/fonts/Marquette.svg#svgFontName') format('svg'); /* Legacy iOS */*/
   }
 .signature{
   font-family: Marquette;
